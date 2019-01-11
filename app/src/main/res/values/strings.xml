@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">蓝牙音频设置</string>
+    <string name="arvcp_setting">蓝牙AVRCP版本</string>
+    <string name="codec_setting">蓝牙音频编解码器</string>
+    <string name="sample_setting">蓝牙音频采样率</string>
+    <string name="bits_setting">蓝牙音频每样本位数</string>
+    <string name="channel_setting">蓝牙音频声道模式</string>
+    <string name="ldac_setting">蓝牙音频声道模式</string>
+
+</resources>
